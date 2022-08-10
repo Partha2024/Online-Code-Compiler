@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Online-Code-Compiler/static/css/main.39b501e6.css",
+    "main.js": "/Online-Code-Compiler/static/js/main.407b08dc.js",
+    "index.html": "/Online-Code-Compiler/index.html",
+    "main.39b501e6.css.map": "/Online-Code-Compiler/static/css/main.39b501e6.css.map",
+    "main.407b08dc.js.map": "/Online-Code-Compiler/static/js/main.407b08dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39b501e6.css",
+    "static/js/main.407b08dc.js"
+  ]
+}
